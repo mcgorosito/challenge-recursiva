@@ -1,4 +1,4 @@
-,# Challenge Recursiva
+## Challenge Recursiva
 
 Este es la resolución de un challenge para la empresa Recursiva. Consiste en crear un programa que lea una planilla .csv con el formato "Nombre, Edad, Equipo, Estado Civil, Estudios alcanzados" separados por un punto y coma (;) y que imprima la siguiente información:
 
