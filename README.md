@@ -25,7 +25,11 @@ Para ejecutar el programa, tenemos que ejecutar el siguiente comando en la conso
 ```bash
 java -jar target/challenge-recursiva-1.0-SNAPSHOT.jar "path-al-archivo"
 ```
+
 Esto hará que nos imprima por consola el resultado.
+
+El proyecto cuenta con un archivo "socios.csv" de 50.000 entradas listo para probar. El mismo se encuentra en la carpeta _enunciado_.
+
 
 ## Testing
 
